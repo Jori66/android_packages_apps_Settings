@@ -70,7 +70,7 @@
     <color name="theme_primary_dark">#ff455a64</color>
     <color name="theme_accent">#ff78909c</color>
 
-    <color name="dashboard_background_color">#ff151b1e</color>
+    <color name="dashboard_background_color">#ff000000</color>
     <color name="switchbar_background_color">#ff263238</color>
     <color name="switch_accent_color">#b0bec5</color>
 
